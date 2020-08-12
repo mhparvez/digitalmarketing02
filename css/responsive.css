@@ -1,0 +1,164 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .hero_title h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .hero_p {
+        text-align: center;
+    }
+
+    .button_hero {
+        text-align: center;
+    }
+
+    .button_hero button {
+        font-size: 14px;
+        padding: 10px 25px;
+
+    }
+
+    .hero_img {
+        text-align: center;
+    }
+
+    .img-fluid {
+        max-width: 69%;
+        height: auto;
+    }
+
+    .title_services {
+        text-align: center;
+    }
+
+    .title_services h1 {
+        font-size: 23px;
+    }
+
+    .box_color {
+        text-align: center;
+        margin: 10px;
+    }
+
+    .about_img {
+        text-align: center;
+    }
+
+    .h3_text h3 {
+        margin-top: 20px;
+
+    }
+
+    .main_title h1 {
+        font-size: 33px;
+    }
+
+    .image_box,
+    .image_box2 {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .gallary_title h1 {
+        font-size: 33px;
+    }
+
+    .footer_title h1 {
+        font-size: 36px;
+    }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .hero_title h1 {
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .hero_p {
+        text-align: center;
+    }
+
+    .button_hero {
+        text-align: center;
+    }
+
+    .button_hero button {
+        font-size: 14px;
+        padding: 10px 25px;
+
+    }
+
+    .hero_img {
+        text-align: center;
+    }
+
+    .img-fluid {
+        max-width: 69%;
+        height: auto;
+    }
+
+    .title_services {
+        font-size: 42px;
+        text-align: center;
+    }
+
+    .issue_fix {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    .box_color {
+        text-align: center;
+    }
+
+    .about_img {
+        text-align: center;
+    }
+
+    .h3_text h3 {
+        margin-top: 20px;
+
+    }
+
+    .image_box,
+    .image_box2 {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .gallary_title h1 {
+        font-size: 33px;
+    }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .hero_title h1 {
+        font-size: 45px;
+    }
+
+    .button_hero button {
+
+        font-size: 16px;
+        padding: 15px 20px;
+
+    }
+
+    .title_services h1 {
+        font-size: 31px;
+    }
+
+    .gallary_title h1 {
+        font-size: 34px;
+    }
+
+    /* // Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) and (max-width: 1199.98px) {}
+
+    /* 
+// Extra large devices (large desktops, 1200px and up) */
+    @media (min-width: 1200px) {}
